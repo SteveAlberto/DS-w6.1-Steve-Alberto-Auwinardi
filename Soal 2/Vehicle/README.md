@@ -1,0 +1,3 @@
+class yang di panggil adalah v1 memanggil method move yang berada di class Vehicle yang mana beli di override dan bertuliskan "Vehicle is Moving".
+sedangkan v2 memanggil method move yang berada di class Car, yang mana method move pada kelas tersebut sudah di override menjadi bertuliskan "Car is Moving"
+sehingga output yang di keluarkan oleh v1 adalah "Vehicle is Moving" yang murni dari class Vehicle dan output v2 adalah "Car is Moving" yang sudah di override di class Car.

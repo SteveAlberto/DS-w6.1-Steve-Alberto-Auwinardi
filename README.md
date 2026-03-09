@@ -1,0 +1,1 @@
+alasan mengapa hasil outputnya "meow" adalah karena method yang dimiliki oleh parents (animal) dan anaknya (cat) sama, yaitu sound, hanya saja di override di class cat. 

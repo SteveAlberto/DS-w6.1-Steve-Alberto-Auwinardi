@@ -8,8 +8,6 @@ class Employee {
    }
 }
 
- 
-
 class Programmer extends Employee {
    @Override
    void work() {
